@@ -1,1 +1,1 @@
-replace the whole line with your repo address - https://github.com/VeniGogniti/git-majonez
+replace the whole line with your repo address - VeniGogniti/git-majonez
